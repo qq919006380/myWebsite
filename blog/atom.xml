@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://your-docusaurus-test-site.com/blog</id>
+    <id>https://qq919006380.github.io/myWebsite/blog</id>
     <title>Hello World Blog</title>
     <updated>2021-01-07T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://your-docusaurus-test-site.com/blog"/>
+    <link rel="alternate" href="https://qq919006380.github.io/myWebsite/blog"/>
     <subtitle>Hello World Blog</subtitle>
-    <icon>https://your-docusaurus-test-site.com/img/dog.png</icon>
+    <icon>https://qq919006380.github.io/myWebsite/img/dog.png</icon>
     <entry>
         <title type="html"><![CDATA[Js note 2]]></title>
         <id>/2021/01/07/js-note2/js-note2</id>
-        <link href="https://your-docusaurus-test-site.com/blog/2021/01/07/js-note2/js-note2"/>
+        <link href="https://qq919006380.github.io/myWebsite/blog/2021/01/07/js-note2/js-note2"/>
         <updated>2021-01-07T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[1 函数]]></summary>
         <content type="html"><![CDATA[<h2>1 函数</h2><pre><code class="language-html">&lt;body&gt;
@@ -126,7 +126,7 @@ map 更快， 会return值
     <entry>
         <title type="html"><![CDATA[React]]></title>
         <id>/2021/01/07/react/react</id>
-        <link href="https://your-docusaurus-test-site.com/blog/2021/01/07/react/react"/>
+        <link href="https://qq919006380.github.io/myWebsite/blog/2021/01/07/react/react"/>
         <updated>2021-01-07T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[1 jsx]]></summary>
         <content type="html"><![CDATA[<h2>1 jsx</h2><pre><code>javascript 的语法扩展
@@ -323,7 +323,7 @@ export default CommentBox;
     <entry>
         <title type="html"><![CDATA[Command note]]></title>
         <id>/2021/01/01/command/command</id>
-        <link href="https://your-docusaurus-test-site.com/blog/2021/01/01/command/command"/>
+        <link href="https://qq919006380.github.io/myWebsite/blog/2021/01/01/command/command"/>
         <updated>2021-01-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[npm  & yarn]]></summary>
         <content type="html"><![CDATA[<h2>npm  &amp; yarn</h2><pre><code>npm install                 / yarn   
@@ -350,7 +350,7 @@ import &#x27;bootstrap/dist/css/bootstrap.min.css&#x27;
     <entry>
         <title type="html"><![CDATA[Css-note]]></title>
         <id>/2021/01/01/css-note/css-note</id>
-        <link href="https://your-docusaurus-test-site.com/blog/2021/01/01/css-note/css-note"/>
+        <link href="https://qq919006380.github.io/myWebsite/blog/2021/01/01/css-note/css-note"/>
         <updated>2021-01-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[css]]></summary>
         <content type="html"><![CDATA[<p>css</p><h2>id and class</h2><pre><code>id唯一，并且优先级高
@@ -362,7 +362,7 @@ import &#x27;bootstrap/dist/css/bootstrap.min.css&#x27;
     <entry>
         <title type="html"><![CDATA[Interview]]></title>
         <id>/2021/01/01/interview/interview</id>
-        <link href="https://your-docusaurus-test-site.com/blog/2021/01/01/interview/interview"/>
+        <link href="https://qq919006380.github.io/myWebsite/blog/2021/01/01/interview/interview"/>
         <updated>2021-01-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[+ interview]]]></summary>
         <content type="html"><![CDATA[<ul><li>[interview]<!-- -->](<a href="https://juejin.cn/post/6989422484722286600">https://juejin.cn/post/6989422484722286600</a>)</li><li></li></ul><p><img src="1.png" alt="框架"/>
@@ -371,7 +371,7 @@ import &#x27;bootstrap/dist/css/bootstrap.min.css&#x27;
     <entry>
         <title type="html"><![CDATA[Js-note-1]]></title>
         <id>/2021/01/01/js-note/js-note</id>
-        <link href="https://your-docusaurus-test-site.com/blog/2021/01/01/js-note/js-note"/>
+        <link href="https://qq919006380.github.io/myWebsite/blog/2021/01/01/js-note/js-note"/>
         <updated>2021-01-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Chapter 1 Intro]]></summary>
         <content type="html"><![CDATA[<h2>Chapter 1 Intro</h2><p>   js主要包含了三类:   </p><ul><li>ECMAScript:核心.  </li><li>DOM：文档对象模型.    </li><li>BOM：浏览器对戏那个模型.s   </li></ul><p><img src="1.png" alt="1"/></p><h2>Chapter 3 变量相关</h2><p>var和let的区别主要是
