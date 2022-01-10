@@ -8,14 +8,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Hello World',
   tagline: 'I\'m Manny Li',
-  url: 'https://your-docusaurus-test-site.com',
+
+  url: 'https://qq919006380.github.io/myWebsite/',
+  projectName: 'myWebsite', // Usually your repo name.
+  organizationName: 'qq919006380', // Usually your GitHub org/user name.
+  baseUrl: '/myWebsite/',
   
-  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/dog.png',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
   // plugins: ["posthog-docusaurus"],
   presets: [
     [
@@ -82,7 +83,7 @@ const config = {
             position:'right',
           },
           {
-            href: '../pdf/resume.PDF',
+            href: 'https://qq919006380.github.io/myWebsite/pdf/resume.PDF',
             label: "Resume",
             position: "right",
           },
