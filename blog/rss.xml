@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Hello World Blog</title>
-        <link>https://qq919006380.github.io/myWebsite/blog</link>
+        <link>https://qq919006380.github.io/myWebsite/myWebsite/blog</link>
         <description>Hello World Blog</description>
         <lastBuildDate>Thu, 07 Jan 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Js note 2]]></title>
-            <link>https://qq919006380.github.io/myWebsite/blog/2021/01/07/js-note2/js-note2</link>
+            <link>https://qq919006380.github.io/myWebsite/myWebsite/blog/2021/01/07/js-note2/js-note2</link>
             <guid>/2021/01/07/js-note2/js-note2</guid>
             <pubDate>Thu, 07 Jan 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[1 函数]]></description>
@@ -125,7 +125,7 @@ map 更快， 会return值
         </item>
         <item>
             <title><![CDATA[React]]></title>
-            <link>https://qq919006380.github.io/myWebsite/blog/2021/01/07/react/react</link>
+            <link>https://qq919006380.github.io/myWebsite/myWebsite/blog/2021/01/07/react/react</link>
             <guid>/2021/01/07/react/react</guid>
             <pubDate>Thu, 07 Jan 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[1 jsx]]></description>
@@ -322,7 +322,7 @@ export default CommentBox;
         </item>
         <item>
             <title><![CDATA[Command note]]></title>
-            <link>https://qq919006380.github.io/myWebsite/blog/2021/01/01/command/command</link>
+            <link>https://qq919006380.github.io/myWebsite/myWebsite/blog/2021/01/01/command/command</link>
             <guid>/2021/01/01/command/command</guid>
             <pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[npm  & yarn]]></description>
@@ -349,7 +349,7 @@ import &#x27;bootstrap/dist/css/bootstrap.min.css&#x27;
         </item>
         <item>
             <title><![CDATA[Css-note]]></title>
-            <link>https://qq919006380.github.io/myWebsite/blog/2021/01/01/css-note/css-note</link>
+            <link>https://qq919006380.github.io/myWebsite/myWebsite/blog/2021/01/01/css-note/css-note</link>
             <guid>/2021/01/01/css-note/css-note</guid>
             <pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[css]]></description>
@@ -361,7 +361,7 @@ import &#x27;bootstrap/dist/css/bootstrap.min.css&#x27;
         </item>
         <item>
             <title><![CDATA[Interview]]></title>
-            <link>https://qq919006380.github.io/myWebsite/blog/2021/01/01/interview/interview</link>
+            <link>https://qq919006380.github.io/myWebsite/myWebsite/blog/2021/01/01/interview/interview</link>
             <guid>/2021/01/01/interview/interview</guid>
             <pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[+ interview]]]></description>
@@ -370,7 +370,7 @@ import &#x27;bootstrap/dist/css/bootstrap.min.css&#x27;
         </item>
         <item>
             <title><![CDATA[Js-note-1]]></title>
-            <link>https://qq919006380.github.io/myWebsite/blog/2021/01/01/js-note/js-note</link>
+            <link>https://qq919006380.github.io/myWebsite/myWebsite/blog/2021/01/01/js-note/js-note</link>
             <guid>/2021/01/01/js-note/js-note</guid>
             <pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Chapter 1 Intro]]></description>
